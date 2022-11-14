@@ -1,0 +1,27 @@
+
+.Blake{
+    background-color: aquamarine;
+
+   /* An example of hierarchy - Class Blake, which is the Parent extends its properties
+   to the child*/
+}
+.Bake{
+    /* background-color: aquamarine; */
+    color: red;
+
+    /* Because id Cake is more specific, the color red will not be displayed on the text */
+}
+#Cake{
+    color: blueviolet;
+    font-family: Tahoma;
+    font-size: medium;
+    font-weight: lighter;
+}
+.Fake{
+    font-family: fantasy;
+    font-weight: lighter;
+    /* background-color: bisque; */
+}
+.Lake{
+    color: blue;
+}
