@@ -2,7 +2,7 @@
 .Blake{
     background-color: aquamarine;
 
-   /* An example of hierarchy - Class Blake, which is the Parent extends its properties
+   /* An example of Inheritance - Class Blake, which is the Parent extends its properties
    to the child*/
 }
 .Bake{
